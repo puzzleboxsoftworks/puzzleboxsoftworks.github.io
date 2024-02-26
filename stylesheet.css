@@ -1,0 +1,45 @@
+body {
+    background-color: peachpuff;
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+
+.middle {
+    width: 45%;
+    margin: auto;
+    background: whitesmoke;
+}
+.sidenav a {
+    position: absolute;
+    left: -150px;
+    transition: 0.3s;
+    padding: 15px;
+    width: 150px;
+    text-decoration: none;
+    font-size: 20px;
+    color: whitesmoke;
+}
+.sidenav a:hover {
+    left: 0;
+}
+.links {
+    top: 20px;
+    background-color: antiquewhite;
+}
+
+.downloads {
+    top: 80px;
+    background-color: chocolate;
+}
+.home {
+    top:  80;
+    background-color: cornflowerblue;
+}
+section{
+    width: 100%;
+    padding-bottom: 10px;
+}
+section img {
+    width: 100%;
+}
