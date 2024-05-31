@@ -36,6 +36,10 @@ body {
     top:  80;
     background-color: cornflowerblue;
 }
+.Publish {
+    top:  80;
+    background-color: cadetblue;
+}
 section{
     width: 100%;
     padding-bottom: 10px;
